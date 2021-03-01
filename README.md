@@ -17,6 +17,7 @@ The purpose of this project was to create six models that consumed FAANG data an
 6. Time Series <br>
 <br>
 The models were all fed historical data by minute from October 1, 2020 to December 31, 2020. The test/validation period was January 1, 2021 to February 26, 2021. This project gives us exposure applying machine learning models learned in the classroom to real-world situations like the stock market. <br>
+
 ## Approach
 The six models were built and measured on the Mean Squared Error (MSE) and Accuracy for each of the stocks. The accuracies were then tested for significant differences to determine which model was the best for predicting changes in FAANG stock prices. <br>
 
